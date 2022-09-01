@@ -134,6 +134,32 @@ The image below shows one of the sheets in the Tableau story: Bike Repairs. This
 
 
 
-## Summary
+## Summary and Additional Analysis
+
+
+Ultimately, bikeshare services are remarkably popular in dense  metropolitan area. The user base is predominantly made up of male subscribers, providing regular income to the program. More focus should pivoted towards female rides. The main usage time appears to be around morning and evening commute times.
+
+
+The following images below will be used for additional analyses: 
+
+
+RideSharing Locations (Starting and Ending) by Gender: This sheet shows that males prefer to start and end their trips away from the center of the city as opposed to females, indicating that perhaps a geographical analysis can provide more insight as to why this is occurring. 
+
+
+
+
+<img width="1207" alt="Screen Shot 2022-08-31 at 9 48 12 PM" src="https://user-images.githubusercontent.com/102444078/187833513-d5b230d3-26ab-4d18-8a22-be7e02616ec0.png">
+
+
+
+
+
+
+<img width="1067" alt="Screen Shot 2022-08-31 at 9 51 49 PM" src="https://user-images.githubusercontent.com/102444078/187833979-18ca8e53-b9fa-41e4-9f6e-5eb461c8d893.png">
+
+
+
+
+
 
 
