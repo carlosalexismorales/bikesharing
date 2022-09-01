@@ -23,6 +23,24 @@ The following link to take you to the Tableau story [link to dashboard](https://
 
 
 
+The following image below shows one of the sheets in the Tableau story: Checkout Times for Users. The line graph shown illustrates how there is a steep dropoff in number of rides over an hour in length. 
+
+
+
+
+
+<img width="1021" alt="Screen Shot 2022-08-31 at 9 15 18 PM" src="https://user-images.githubusercontent.com/102444078/187830287-4192a60b-4f95-42b4-951b-9283430c8244.png">
+
+
+
+
+
+
+
+
+
+
+
 
 ## Summary
 
