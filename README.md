@@ -19,7 +19,7 @@ The purpose of this project was to use Tableau to create effective visualization
 
 ## Results
 
-The following link to take you to the Tableau story [link to dashboard]([[LINK GOES HERE](https://public.tableau.com/app/profile/carlos2209/viz/CitiBikeAnalysis_16619957679780/CitiBikeAnalysis?publish=yes)])
+The following link to take you to the Tableau story [link to dashboard](LINK GOES HERE "https://public.tableau.com/app/profile/carlos2209/viz/CitiBikeAnalysis_16619957679780/CitiBikeAnalysis?publish=yes")
 
 
 
